@@ -1,0 +1,2 @@
+re.regex(principal.process.command_line, `RunAs`) nocase
+hash = "d9b21bbb3a86323866c95787f24bd7b3eb8690d19c1fe61e25bf397ec579a74c" or hash = "88e11aae3f0625e05cc99aacdff845dc8bf147f2424b9dbac33f052a7001dc29"
